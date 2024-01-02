@@ -1,6 +1,9 @@
-<<<<<<< HEAD
+
 # Web3-DBankApp
-=======
+
+![image](https://github.com/ozgeerkskn/Web3-DBankApp/assets/105421946/7fe0a2d4-d585-4eb7-81e8-525ec9865deb)
+
+
 # dbank
 
 Welcome to your new dbank project and to the internet computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
